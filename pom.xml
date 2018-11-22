@@ -4,7 +4,7 @@
 
     <groupId>com.michalkrause</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -48,7 +48,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/ZeroNatioN/sfg-pet-clinic.git</developerConnection>
 
-      <tag>sfg-pet-clinic-0.0.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
